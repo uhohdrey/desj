@@ -1,0 +1,9 @@
+com/example/sup/exception/RecipeIdMismatchException.class
+com/example/sup/RestExceptionHandler.class
+com/example/sup/repo/RecipesCollection.class
+com/example/sup/RecipesLoader.class
+com/example/sup/HelloController.class
+com/example/sup/RecipeController.class
+com/example/sup/model/Recipe.class
+com/example/sup/Application.class
+com/example/sup/exception/RecipeNotFoundException.class
